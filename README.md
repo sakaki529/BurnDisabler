@@ -1,3 +1,3 @@
 # BurnDisabler
 Mod for Terraria  
-Disable items destroyed in Lava
+Disable items destroyed in lava
