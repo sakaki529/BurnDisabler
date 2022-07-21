@@ -1,0 +1,34 @@
+===========================================
+[c/ff8c00:-Description-]
+===========================================
+This mod disable items destroyed in lava.
+This is not affect Guide Voodoo Doll.
+===========================================
+[c/FE2EF7:-Supporting Mods-]
+===========================================
+-Ancients Awakened (Goblin Doll)
+-Fargo's Souls Mod (Abominationn Voodoo Doll)
+-Sins Mod (Angler Voodoo Doll)
+-------------------------------------------
+If you made item such as Guide Voodoo Doll for your mod, I can support with it.
+===========================================
+[c/ffb600:-Changelogs-]
+===========================================
+v0.1.0.10: Supported Fargo's Souls Mod.
+-------------------------------------------
+v0.1.0.9: Republished(tML v0.11.5)
+-------------------------------------------
+v0.1.0.7 - 0.1.0.8: Minor change on code
+-------------------------------------------
+v0.1.0.6: Supported other mods again.
+-------------------------------------------
+v0.1.0.5: Bug fixed
+-------------------------------------------
+v0.1.0.4: Supported other mods.
+-------------------------------------------
+v0.1.0.3: Compressed all png file.
+-------------------------------------------
+v0.0.0.2: Added icon
+-------------------------------------------
+v0.0.0.1: Published
+===========================================

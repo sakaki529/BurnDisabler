@@ -1,0 +1,9 @@
+author = Cleyera
+version = 0.1.0.10
+displayName = Burn Disabler
+homepage = https://discord.gg/vdzJRYc
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = false
